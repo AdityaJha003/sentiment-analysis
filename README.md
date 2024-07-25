@@ -23,3 +23,7 @@ Roberta can detect better natural language
 
 Roberta goes brrrr
 Use Robeta
+
+
+![Screenshot 2024-07-25 155327](https://github.com/user-attachments/assets/845ab279-abc4-47a8-873e-a688668e075e)
+
